@@ -1,0 +1,106 @@
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+.header{
+	border: 2px solid red;	  
+}
+.slider{
+	border: 2px solid orange;
+
+}
+.about{
+	border: 2px solid green;
+}
+.service{
+	border: 2px solid black;
+}
+.footer{
+	border: 2px solid yellow;
+	overflow: hidden;
+}
+.logo{
+	border: 2px solid green;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.menu{
+	border: 2px solid green;
+	width: 50%;
+	height: 100px;
+	display: inline-block;
+
+}
+.signin{
+	border: 2px solid green;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.slideimageone{
+	border: 2px soild red;
+	width: 45%;
+	height: 100px;
+	display: inline-block;
+}
+.slideimagetwo{
+	border: 2px solid red;
+	width: 49%;
+	height: 100px;
+	display: inline-block;
+}
+.aone{
+	border: 2px solid black;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.atwo{
+	border: 2px solid black;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.athree{
+	border: 2px solid black;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.afour{
+	border: 2px solid black;
+	width: 20%;
+	height: 100px;
+	display: inline-block;
+}
+.serviceone{
+	border: 2px solid green;
+	width: 30%;
+	height: 100px;
+	display: inline-block;
+}
+.servicetwo{
+	border: 2px solid green;
+	width: 30%;
+	height: 100px;
+	display: inline-block;
+}
+.servicethree{
+	border: 2px solid green;
+	width: 30%;
+	height: 100px;
+	display: inline-block;
+}
+.contactus{
+	border: 2px solid blue;
+	width: 45%;
+	height: 100px;
+	float: left;
+}
+.map{
+	border: 2px solid blue;
+	width: 45%;
+	height: 100px;
+	float: right;
+}
